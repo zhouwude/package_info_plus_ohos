@@ -1,0 +1,10 @@
+.dart_tool/
+build/
+.packages
+pubspec.lock
+ohos/build/
+ohos/.preview/
+ohos/oh_modules/
+ohos/.hvigor/
+*.iml
+.idea/
